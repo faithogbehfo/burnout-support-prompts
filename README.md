@@ -1,2 +1,3 @@
 # burnout-support-prompts
-This repository showcases AI prompt engineering work focused on mental health and burnout recovery. It includes experiments with LLMs (e.g., GPT-4), RAG workflows, and user-centered design to improve emotional support, personalization, and user engagement. Built as part of my Bonsai Prompt Design Fellowship application.
+This repository includes sample burnout-related AI prompts written in Python and structured for mental health support. These prompts are optimized for GPT-4 and designed to foster reflection, self-awareness, and emotional resilience.
+The code simulates user-facing prompt delivery in wellness apps and aligns with my application for the Bonsai AI Prompt Design Fellowship.
